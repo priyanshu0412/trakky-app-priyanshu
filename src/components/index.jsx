@@ -1,0 +1,5 @@
+export { default as Navbar } from "./Navbar"
+export { default as Icon } from "./Icon"
+export { default as TaskOne } from "./task1"
+export { default as TaskTwo } from "./task2"
+export { default as TaskThree } from "./task3"
